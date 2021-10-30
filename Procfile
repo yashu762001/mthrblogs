@@ -1,0 +1,1 @@
+web: gunicorn blog_lyfe.wsgi --log-file -
